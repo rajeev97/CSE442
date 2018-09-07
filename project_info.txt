@@ -1,1 +1,27 @@
-Project Description
+Team Name:
+The Rockstars
+
+Team Members:
+Andrew Ketcham - aketcham@buffalo.edu
+Rajeev Gundavarapu-rajeevgu@buffalo.edu
+Mohammad Hafeez - mthafeez@buffalo.edu
+Raman Krishan - ramankri@buffalo.edu
+David Richwalder - dmrichwa@buffalo.edu
+
+Weekly Meeting Time:
+Thursdays 3:30 - 4:00
+
+Alternate Dispute Resolution:
+Coin Flip
+
+Project Description:
+QR Attendance
+Our plan is to make a web application that would allow the professor of a class to display a QR code on the projector.
+The creation of the QR code would also create a Google Sheet that would be used
+to track students' attendance. Students would scan this QR code in order to create a new line in the google sheet
+that includes their UBIT.
+
+Tentative features would include an android and iOS app that students would be able to use instead of the web
+application. Additionally, if time permits, we would like to allow the professor to create questions (similar to clickers)
+that also create QR codes that students could use to participate in the question. The results of these questions would be
+added to the google sheet.
